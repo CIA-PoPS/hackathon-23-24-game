@@ -2,6 +2,13 @@
 
 
 ## How to use it
+Commands:
+  - to calculate every game: python3 ./game.py
+  - to calculate every game on new stages: python3 ./game.py --generate
+  - to calculate every game on original stages: python3 ./game.py --original
+  - to calculate every game and display them after: python3 ./game.py --display
+  - to display game based on logs folders: python3 ./ModuleDisplay.py
+
 Files:
   - 'game.py' - the main file
   - 'TankLib.py' - the module with the library for every modules
