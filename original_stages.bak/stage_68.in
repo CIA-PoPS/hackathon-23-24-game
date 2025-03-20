@@ -1,0 +1,10 @@
+Dimension: 635 532
+Bot: 7
+Wall: 375 104 25 30
+Wall: 315 410 56 35
+Wall: 399 297 30 74
+Player: 83 334
+Enemy: First 483 259
+Enemy: Second 513 212
+Enemy: Third 602 69
+Enemy: Fourth 570 407
